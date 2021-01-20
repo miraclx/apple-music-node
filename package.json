@@ -1,5 +1,5 @@
 {
-  "name": "@yujinakayama/apple-music",
+  "name": "@miraclx/apple-music",
   "version": "0.4.0",
   "description": "Apple Music API Client for Node.js",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
     "publish": "npm publish --access public",
     "test": "jest"
   },
-  "homepage": "https://github.com/yujinakayama/apple-music-node",
+  "homepage": "https://github.com/miraclx/apple-music-node",
   "keywords": [
     "apple",
     "music",
